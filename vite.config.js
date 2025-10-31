@@ -2,5 +2,5 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/qr-code-component/", // <-- important for GitHub Pages
+  base: "/nft-card-component/", // <-- important for GitHub Pages
 });
